@@ -1,41 +1,50 @@
 # StaffFlow
 
-**Sistema Inteligente de Gestão de Escalas e Equipes**
+**Sistema de Gestão de Escalas de Trabalho e Equipes**
 
 ## Sobre o projeto
 
-O StaffFlow é um sistema em desenvolvimento, idealizado para auxiliar empresas dos segmentos de hotelaria e restaurantes no gerenciamento de funcionários, setores, cargos e escalas de trabalho.
+O StaffFlow é um projeto independente em desenvolvimento, idealizado com o objetivo de auxiliar empresas dos segmentos de hotelaria e restaurantes no gerenciamento de funcionários, setores, cargos e escalas de trabalho.
 
-A proposta é centralizar a organização das equipes, facilitar a elaboração das escalas mensais e promover uma distribuição equilibrada de turnos e folgas.
+A proposta é centralizar a organização das equipes, facilitar a elaboração das escalas mensais e contribuir para uma distribuição equilibrada de turnos e folgas.
+
+## Problema que o projeto busca resolver
+
+A elaboração de escalas de trabalho pode envolver diversos critérios, como jornadas, folgas, afastamentos, férias e necessidades de cobertura dos setores.
+
+O StaffFlow busca organizar essas informações em um único sistema, facilitando o planejamento e a administração das equipes.
 
 ## Objetivos
 
 - Organizar funcionários por setores e cargos.
 - Permitir que líderes elaborem escalas de suas respectivas equipes.
-- Centralizar a aprovação e publicação das escalas pelo RH.
-- Identificar conflitos de horários e cobertura insuficiente.
-- Promover uma distribuição equilibrada de turnos e folgas.
+- Centralizar a análise, aprovação e publicação das escalas pelo RH.
+- Identificar possíveis conflitos de horários e cobertura insuficiente.
+- Contribuir para uma distribuição equilibrada de turnos e folgas.
+- Facilitar a consulta e a impressão das escalas mensais.
 
 ## Perfis de acesso
 
-- **RH:** administra cadastros, setores, cargos, líderes e aprova e publica escalas.
-- **Líderes:** elaboram escalas dos setores sob sua responsabilidade.
-- **Funcionários:** consultam escalas e folgas publicadas.
+- **RH:** administra cadastros, setores, cargos e líderes, além de analisar, aprovar e publicar as escalas.
+- **Líderes:** elaboram as escalas dos setores sob sua responsabilidade.
+
+*O acesso dos funcionários para consulta das escalas está previsto como possibilidade de evolução futura.*
 
 ## Tecnologias planejadas
 
-- Java 21
-- Spring Boot
-- Angular
-- MySQL
-- Git e GitHub
+- **Back-end:** Java 21 e Spring Boot.
+- **Front-end:** Angular.
+- **Banco de dados:** MySQL.
+- **Versionamento:** Git e GitHub.
 
 ## Situação do projeto
 
 Projeto em fase inicial de planejamento e desenvolvimento.
 
+As funcionalidades serão implementadas gradualmente, conforme a evolução do projeto e o aprendizado das tecnologias utilizadas.
+
 ## Autor
 
-Projeto independente desenvolvido para fins de estudo, aprimoramento técnico e composição de portfólio profissional, com base em uma proposta inicialmente explorada no contexto acadêmico.
+Projeto independente desenvolvido por Danilo Simplicio, como iniciativa de aprendizado prático e composição de portfólio profissional durante a formação em Análise e Desenvolvimento de Sistemas.
 
-O desenvolvimento busca aplicar, de forma prática, os conhecimentos adquiridos em Análise e Desenvolvimento de Sistemas, utilizando tecnologias e práticas de desenvolvimento de software.
+O objetivo é aplicar conhecimentos de programação, desenvolvimento web, banco de dados, arquitetura de software e controle de versão na construção de uma aplicação realista.
